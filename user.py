@@ -30,4 +30,5 @@ class User:
         filename = loc + "/" + self.chan + "____" + self.nick
         # FIXME:                        fix ^
         # FIXME: politely steal from https://stackoverflow.com/questions/295135/turn-a-string-into-a-valid-filename
+        # TODO: pickle! (http://www.diveintopython3.net/serializing.html)
         with open()
